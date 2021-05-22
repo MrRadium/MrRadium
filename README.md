@@ -9,7 +9,7 @@ I'm Mr. Radium! I'm a programmer obsessed with UI/UX Designing and History, I lo
   - UI/UX Desiging
 
 - 📫 You can reach me via the:
-  - <a href="#"><img width="16px" height="16px" src="https://github.com/MrRadium/MrRadium/blob/main/assets/gmail.png"></a> [`mr.radium7@gmail.com`](mailto:mr.radium7@gmail.com)
+  - <a href="#"><img width="20px" height="20px" src="https://github.com/MrRadium/MrRadium/blob/main/assets/gmail.png"></a> [`mr.radium7@gmail.com`](mailto:mr.radium7@gmail.com)
 
 - 🎧 I love music.
 - 🐧 I use Zorin OS Core
@@ -17,6 +17,6 @@ I'm Mr. Radium! I'm a programmer obsessed with UI/UX Designing and History, I lo
   - Neovim
   - Visual Studio Code
 - Design tool I use:
-  - <img src="/assets/figma.png" alt="Figma Logo" style="height: 16px; width:16px;"/> Figma
+  - <img src="/assets/figma.png" alt="Figma Logo" width="20px" height="20px"/> Figma
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRadium&show_icons=true&theme=ayu-mirage&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
