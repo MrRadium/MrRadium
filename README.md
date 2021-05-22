@@ -17,6 +17,6 @@ I'm Mr. Radium! I'm a programmer obsessed with UI/UX Designing and History, I lo
   - Neovim
   - Visual Studio Code
 - Design tool I use:
-  - Figma
+  - <img src="/assets/figma.png" alt="Figma Logo" style="height: 16px; width:16px;"/> Figma
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRadium&show_icons=true&theme=ayu-mirage&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
