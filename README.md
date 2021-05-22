@@ -9,7 +9,7 @@ I'm Mr. Radium! I'm a programmer obsessed with UI/UX Designing and History, I lo
   - UI/UX Desiging
 
 - 📫 You can reach me via:
-  - <a href="#" 📮</a> [`mr.radium7@gmail.com`](mailto:mr.radium7@gmail.com)
+  - <a href="#" 📮></a> [`mr.radium7@gmail.com`](mailto:mr.radium7@gmail.com)
 
 - 🎧 I love music.
 - 🐧 I use Zorin OS Core
