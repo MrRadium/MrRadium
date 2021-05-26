@@ -1,5 +1,5 @@
 ### Hi there!
-I'm Mr. Radium! I'm a programmer obsessed with UI/UX Designing and History, I love talking about the things that happened in past during the medieval and modern times. I sometimes write blogs too.
+I'm Mr. Radium! a programmer obsessed with UI/UX Designing, Blogging & Modern History.
 
 - I know
   - Flutter
