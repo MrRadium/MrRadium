@@ -18,4 +18,4 @@ I'm Mr. Radium! a programmer obsessed with UI/UX Designing, Blogging & Modern Hi
 - 🖌️ Design tools I use:
   - Figma
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRadium&show_icons=true&theme=ayu-mirage&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-radium&show_icons=true&theme=ayu-mirage&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
